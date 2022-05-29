@@ -1,21 +1,27 @@
-## Ola, me chamo Lucas Nogueira!
+### <h1 align='center'> Hi, my name is Lucas Nogueira<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+
+<p align='center'><img src="https://user-images.githubusercontent.com/73348960/108745603-ba67ce80-7554-11eb-8be8-1089870b1af1.gif"></p>
+
+### 📌About Me:
+
+- 21 yr'O.
+- Learning about python, data science, machine learning, statics and back end. 
+- Come check out: 
+[![Mail Badge](https://img.shields.io/badge/-@HTTP.NOGX-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=black)](https://www.instagram.com/http.nogx/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nogd3v/)
+[![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/nogd3v)
+
  <div>
   <a href="https://github.com/nogD3V">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nogD3V&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nog-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nog-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nog-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nog-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/http.nogx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucas.nsilva033@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/silvanogueiralucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+   
+### Tech Stack: <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Python-00008B?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-020500.svg?&style=for-the-badge&logo=PyCharm&logoColor=yellow"/>
