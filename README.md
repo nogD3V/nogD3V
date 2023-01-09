@@ -1,9 +1,6 @@
 ### <h1 align='center'> Hi, my name is Lucas Nogueira Silva</h1>
 <h2 align='center'> A Software Developer </h2>
 
-
-<p align='center'><img src="https://user-images.githubusercontent.com/73348960/108745603-ba67ce80-7554-11eb-8be8-1089870b1af1.gif"></p>
-
 ### 📌About Me:
 
 - 21 yr'O.
