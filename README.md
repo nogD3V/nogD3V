@@ -4,7 +4,7 @@
 ### 📌About Me:
 
 - 21 yr'O.
-- Learning about Python abd Data Engineering.
+- Learning about Python and Data Engineering.
 - Come check out: 
 [![Mail Badge](https://img.shields.io/badge/-@HTTP.NOGX-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=black)](https://www.instagram.com/http.nogx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nogd3v/)
