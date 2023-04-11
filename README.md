@@ -23,6 +23,8 @@
   <img src="https://profile-counter.glitch.me/nogd3v/count.svg" />  
 </p>
 
-<div align="left">
+<h1 align="center" >Status</h1>
+
+<div align="right">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogd3v&layout=compact&langs_count=16&theme=dark"/>
 </div>
