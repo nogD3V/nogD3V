@@ -1,4 +1,4 @@
-<img align="left" width="400px" height="600px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNOyZ7_-LHkHdLK1dr6UgZ4s9cWCKsBbgpw&usqp=CAU">
+<img align="left" width="400px" height="470px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNOyZ7_-LHkHdLK1dr6UgZ4s9cWCKsBbgpw&usqp=CAU">
 <h1 align='left'> Hi, I'm Lucas 👋</h1>
 
 ### 👨🏻‍💻Tech Stack:
@@ -14,7 +14,7 @@
 [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/nogd3v)
 
 
-<div align="left">
+<div align="right">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogd3v&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
