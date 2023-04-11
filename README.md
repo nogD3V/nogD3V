@@ -1,4 +1,4 @@
-<img align="left" width="400px" height="470px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNOyZ7_-LHkHdLK1dr6UgZ4s9cWCKsBbgpw&usqp=CAU">
+<img align="left" width="400px" height="600px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNOyZ7_-LHkHdLK1dr6UgZ4s9cWCKsBbgpw&usqp=CAU">
 <h1 align='left'> Hi, I'm Lucas 👋</h1>
 
 ### 👨🏻‍💻Tech Stack:
