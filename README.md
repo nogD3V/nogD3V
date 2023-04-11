@@ -12,7 +12,7 @@
 
  <div>
   <a href="https://github.com/nogD3V">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=nogD3V&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css)"/>
+  <img height="180em" src="[https://github-readme-stats.sigma-five.vercel.app/api?username=nogD3V&show_icons=true&theme=dracula&include_all_commits=true&count_private=true]"/>
    
 ### Tech Stack: <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
