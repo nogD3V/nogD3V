@@ -14,9 +14,7 @@
 [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/nogd3v)
 
 
-<div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogd3v&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
 
 <h1 align="center" >Atividade</h1>
 <!-- visitors count  -->
@@ -24,3 +22,7 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/nogd3v/count.svg" />  
 </p>
+
+<div align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogd3v&layout=compact&langs_count=16&theme=dark"/>
+</div>
