@@ -1,6 +1,6 @@
 ### HI, I'm Lucas Nogueira (nogD3V).
 
-<p>STUDYING TO BECOME A JR CYBERSECURITY ENGINEER ASAP 🐍 • 🛢 • 📊.</p>
+<p>Junior Infrastructure Analyst 🐍 • 🛢 • 📊.</p>
  
   ##
  
