@@ -1,6 +1,6 @@
 ### HI, I'm Lucas Nogueira (nogD3V).
 
-<p>Junior Infrastructure Analyst 🐍 • 🛢 • 📊.</p>
+<p>DEV FULLSTACK JR 🐍 • 🛢 • 📊.</p>
  
   ##
  
