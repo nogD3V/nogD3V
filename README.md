@@ -4,7 +4,7 @@
 Sou Lucas Nogueira, formado em ADS estudando a pratica de Engenharia de Dados.
 
 
-Estudando sobre SQL, Python, Databricks, BigQuery, dbt, AWS, Airflow, Airbyte, processos de ingestão, transformação, modelagem, governança e qualidade de dados.
+Estudo principalmente as arquiteturas de dados. Meus outros focos são: SQL, Python, Databricks, BigQuery, dbt, AWS, Airflow, Airbyte, processos de ingestão, transformação, modelagem, governança e qualidade de dados.
 
 
 <p align="center">
